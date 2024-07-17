@@ -12,4 +12,4 @@ http://open.acgtracker.com:1096/announce
 http://open.acgtracker.com:1096/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com/announce
-http://tracker1.itzmx.com:8080/announc
+http://tracker1.itzmx.com:8080/announce
